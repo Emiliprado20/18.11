@@ -11,5 +11,5 @@
 .body{
     background-color: var(--cor-de-fundo);
     font-size: 30px;
-    background-image: url(images.png);
+    color: var(--cor-de-letra)
 }
